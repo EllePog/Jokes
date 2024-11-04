@@ -1,0 +1,19 @@
+body{
+    background-color: darkolivegreen;
+}
+#setup{
+    text-align: center;
+    font-size: xx-large;
+}
+#punchline{
+    text-align: center;
+    font-size:xx-large;
+}
+#container{
+    text-align: center;
+    font-size: large;
+}
+button{
+    display: inline-block;
+    margin: 0 auto;
+}
